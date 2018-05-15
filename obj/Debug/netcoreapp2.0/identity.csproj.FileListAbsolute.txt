@@ -1,0 +1,13 @@
+/home/adriano/cursos/aspnet-core/identity/bin/Debug/netcoreapp2.0/app.db
+/home/adriano/cursos/aspnet-core/identity/bin/Debug/netcoreapp2.0/identity.deps.json
+/home/adriano/cursos/aspnet-core/identity/bin/Debug/netcoreapp2.0/identity.runtimeconfig.json
+/home/adriano/cursos/aspnet-core/identity/bin/Debug/netcoreapp2.0/identity.runtimeconfig.dev.json
+/home/adriano/cursos/aspnet-core/identity/bin/Debug/netcoreapp2.0/identity.dll
+/home/adriano/cursos/aspnet-core/identity/bin/Debug/netcoreapp2.0/identity.pdb
+/home/adriano/cursos/aspnet-core/identity/obj/Debug/netcoreapp2.0/identity.csprojAssemblyReference.cache
+/home/adriano/cursos/aspnet-core/identity/obj/Debug/netcoreapp2.0/identity.csproj.CoreCompileInputs.cache
+/home/adriano/cursos/aspnet-core/identity/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/home/adriano/cursos/aspnet-core/identity/obj/Debug/netcoreapp2.0/identity.AssemblyInfoInputs.cache
+/home/adriano/cursos/aspnet-core/identity/obj/Debug/netcoreapp2.0/identity.AssemblyInfo.cs
+/home/adriano/cursos/aspnet-core/identity/obj/Debug/netcoreapp2.0/identity.dll
+/home/adriano/cursos/aspnet-core/identity/obj/Debug/netcoreapp2.0/identity.pdb
